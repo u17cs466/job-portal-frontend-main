@@ -6,7 +6,7 @@ import vector from "../assets/icons/Vector.png";
 const Jobs = () => {
   return (
     <div className="w-screen h-screen bg-gray-300">
-      <div className="bg-white ml-4 h-60 w-100 mr-4 rounded border-t-2">
+      <div className="bg-white ml-7 h-60 w-100 mr-7 rounded border-t-2">
         <lable className="font-semibold pt-4 pl-5">Add A Job</lable>
         <div className="flex justify-between mr-5 ml-5">
           <div className="h-40 w-96 mt-10 rounded">
@@ -127,7 +127,7 @@ const Jobs = () => {
               Share this Job Post on all of your social media platforms?
             </p>
           </div>
-          <button className="bg-red-400 hover:bg-red-400 text-white font-bold py-3 px-16 rounded ml-64 mt-10 capitalize">
+          <button className="bg-red-400 hover:bg-red-400 text-white font-bold py-3 px-16 rounded ml-72 mt-10 capitalize">
             submit
           </button>
         </div>

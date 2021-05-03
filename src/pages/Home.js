@@ -102,7 +102,7 @@ const Home = ({ allJobs }) => {
               luctus turpis morbi mauris donec.{" "}
             </p>
             <div className="h-">
-              <button className="bg-red-400 hover:bg-red-400 text-white font-bold py-2 px-4 rounded ml-44 mt-20">
+              <button className="bg-red-400 hover:bg-red-400 text-white font-bold py-2 px-4 rounded ml-44 mt-10">
                 Apply
               </button>
             </div>
